@@ -1,0 +1,80 @@
+#
+# The first event should be birth.
+# The date should match start_date in content/index.md.
+#
+ '1989-01-17':  
+    - name: "I entered the world"  
+      desc: "Born in Taif, Saudi Arabia. 1989 was the year of the Snake. The Berlin Wall was still standing, and Nintendo's Game Boy was about to change gaming forever."
+      category: "self"
+
+  '2007-08-01':  
+    - name: "Started Bachelor's in Mathematics and Statistics at Taif University"  
+      category: "school"
+
+  '2012-08-01':  
+    - name: "Graduated with a Bachelor's in Mathematics and Statistics"  
+      category: "school"
+
+  '2014-08-01':  
+    - name: "Started Master’s in Mathematical Statistics at Taif University"  
+      category: "school"
+
+  '2016-05-01':  
+    - name: "Graduated with a Master’s in Mathematical Statistics"  
+      category: "school"
+
+  '2018-01-01':  
+    - name: "Started English Language Program at UCF Global"  
+      category: "school"
+
+  '2019-05-01':  
+    - name: "Completed English Language Diploma at UCF Global"  
+      category: "school"
+
+  '2019-08-01':  
+    - name: "Started Ph.D. in Big Data Analytics at UCF"  
+      category: "school"
+
+  '2020-08-01':  
+    - name: "Started working as a Research Assistant at UCF"  
+      category: "work"
+
+  '2023-05-01':  
+    - name: "Graduated with a Master’s in Statistics and Data Science from UCF"  
+      category: "school"
+
+  '2024-07-02':  
+    - name: "Successfully defended my Ph.D. dissertation"  
+      category: "school"
+
+  '2024-08-01':  
+    - name: "Graduated with a Ph.D. in Big Data Analytics"  
+      category: "school"
+
+  '2024-09-01':  
+    - name: "Started applying for data science positions in Saudi Arabia"  
+      category: "work"
+
+  '2024-10-22':  
+    - name: "Interviewed for a Data Analyst position at PSAU"  
+      category: "work"
+
+  '2024-10-23':  
+    - name: "Attended Riyadh Career Fair and connected with ALJ Motors"  
+      category: "networking"
+
+  '2025-02-09':  
+    - name: "Started Data Governance Bootcamp at Saudi Digital Academy"  
+      category: "education"
+
+  '2025-05-22':  
+    - name: "Completed Data Governance Bootcamp"  
+      category: "education"
+
+  '2059-01-17':  
+    - name: "🎂 I turn 70"  
+      category: "birthday"
+
+  '2089-01-17':  
+    - name: "🚀 Goal: Celebrate my 100th birthday with an adventure!"  
+      category: "goal"
