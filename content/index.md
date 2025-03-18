@@ -1,4 +1,3 @@
-
 ---
 title       : My Life in Weeks
 start_date	: 1989-01-17
